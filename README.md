@@ -2,7 +2,7 @@
 - 👀 I’m interested in internet privacy
 - 🌱 I’m currently learning how to fish
 - 💞️ I’m looking to collaborate on something
-- 📫 How to reach me If even me cannot reach me
+- 📫 You can reach me by contacting me
 
 <!---
 serverul/serverul is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
